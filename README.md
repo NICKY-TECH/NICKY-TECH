@@ -7,7 +7,7 @@ Fullstack Developer (MERN)
 I am a Fullstack web developer who is ever ready to learn and grow. I am passionate about creating effective, secured and efficient responsive solutions. With a combination of my creative and critical thinking skills I am bent on creating innovative solutions that will revolutionize our WORLD through software development.
 
 * ✉️  You can contact me at [tinaonyis@gmail.com](mailto:tinaonyis@gmail.com)
-* ⚡  One of my superpower is the ability to learn new and required technologies when and if required.
+* ⚡  One of my superpower is the ability to learn new technologies when and if required.
 
 ### Skills
 
